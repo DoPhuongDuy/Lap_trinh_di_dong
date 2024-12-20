@@ -1,0 +1,52 @@
+{
+	"posts": [
+	  {
+		"id": 1,
+		"title": "Hướng dẫn làm bánh trung thu nhân thập cẩm",
+		"body": "Công thức chi tiết để làm bánh trung thu nhân thập cẩm thơm ngon tại nhà.",
+		"base64Image": ""
+	  },
+	  {
+		"id": 2,
+		"title": "Khám phá hang Sơn Đoòng",
+		"body": "Thông tin và kinh nghiệm khám phá hang động lớn nhất thế giới - Sơn Đoòng.",
+		"base64Image": ""
+	  },
+	  {
+		"id": 3,
+		"title": "Lập trình Python cơ bản",
+		"body": "Tìm hiểu những kiến thức cơ bản nhất để bắt đầu với ngôn ngữ lập trình Python.",
+		"base64Image": ""
+	  }
+	],
+	"users": [
+	  {
+		"id": 1,
+		"name": "Nguyễn Văn A",
+		"email": "nguyenvana@example.com",
+		"role": "admin"
+	  },
+	  {
+		"id": 2,
+		"name": "Trần Thị B",
+		"email": "tranthib@example.com",
+		"role": "editor"
+	  },
+	  {
+		"id": 3,
+		"name": "Lê Văn C",
+		"email": "levanc@example.com",
+		"role": "user"
+	  },
+	  {
+		"id": 4,
+		"name": "Phạm Minh D",
+		"email": "phamminhd@example.com",
+		"role": "user"
+	  }
+	],
+	"profile": {
+	  "name": "typicode"
+	}
+  }
+  
